@@ -1,5 +1,7 @@
 # Hello, world!!
 
-I studi in Netology
+I studi in Summer
 
-06.09.2024
+01.06.2024
+
+New branch
